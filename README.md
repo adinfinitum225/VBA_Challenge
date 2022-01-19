@@ -46,7 +46,7 @@ For j = 0 To 11
 
         For i = rowStart To rowEnd
 ```
-For our refactored script we only have to run through all the rows twice.
+For our refactored script we only have to run through all the rows once.
 ```
 For i = 2 To RowCount
 ```
