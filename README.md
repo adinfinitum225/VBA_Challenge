@@ -19,6 +19,8 @@ After performing the analysis for the years 2017 and 2018, it's immediately appa
 The refactored script ran approximately eight times faster than the original script, as seen in the screenshots below. 
 >![Runtime for original code on 2017 data](resources/VBA_Original_2017.png) ![Runtime for original code on 2018 data](resources/VBA_Original_2018.png)\
 >Runtimes for the orignal script.
+
+
 >![Runtime for refactored code on 2017 data](resources/VBA_Challenge_2017.png) ![Runtime for refactored code on 2018 data](resources/VBA_Challenge_2018.png)\
 >Runtimes for the refactored script.
 
