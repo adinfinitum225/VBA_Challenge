@@ -17,15 +17,15 @@ After performing the analysis for the years 2017 and 2018, it's immediately appa
 ### Code performance
 
 The refactored script ran approximately eight times faster than the original script, as seen in the screenshots below. 
->![Runtime for original code on 2017 data](resources/VBA_Original_2018.png) ![Runtime for original code on 2018 data](resources/VBA_Original_2017.png)
->
->Runtimes for the orignal script.
+>![Runtime for original code on 2017 data](resources/VBA_Original_2017.png) ![Runtime for original code on 2018 data](resources/VBA_Original_2018.png)
+>\nRuntimes for the orignal script.
 
 >![Runtime for refactored code on 2017 data](resources/VBA_Challenge_2017.png) ![Runtime for refactored code on 2018 data](resources/VBA_Challenge_2018.png)
->
->Runtimes for the refactored script.
+>\nRuntimes for the refactored script.
 
 ## Summary
+
+In summary, the VBA scripts are a powerful tool for working with data in Microsoft Excel, even though they are a big security risk. Refactoring the script was able to get a large increase in efficiency.
 
 ### Advantages and Disadvantages of Refactoring
 
